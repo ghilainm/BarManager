@@ -3,3 +3,5 @@ project --topLevelPackage repn --projectName BarManager --java 6 --packaging WAR
 // Spring Roo 1.2.1.RELEASE [rev 6eae723] log closed at 2012-09-24 18:35:53
 // Spring Roo 1.2.1.RELEASE [rev 6eae723] log opened at 2012-09-24 19:09:19
 hint
+// Spring Roo 1.2.1.RELEASE [rev 6eae723] log opened at 2012-10-01 21:33:52
+// Spring Roo 1.2.1.RELEASE [rev 6eae723] log closed at 2012-10-02 01:10:46

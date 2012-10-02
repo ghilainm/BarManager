@@ -1,2 +1,4 @@
-<%@ include file="/WEB-INF/jsp/templates/include.jsp" %>
-WELCOME HOME!
+<%@ include file="./templates/include.jsp" %>
+<%@ include file="./templates/header.jsp" %>
+	<spring:message code="home.welcome" />
+<%@ include file="./templates/footer.jsp" %>
